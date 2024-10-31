@@ -4,7 +4,7 @@ import Nabvar from "../navbar/Nabvar";
 
 const Root = () => {
     return (
-        <div>
+        <div className="max-w-6xl mx-auto">
            <Nabvar></Nabvar>
            <Outlet></Outlet>
            <Footer></Footer>

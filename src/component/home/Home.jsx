@@ -1,8 +1,11 @@
+import Bannar from "../bannarsec/Bannar";
+import Books from "../books/Books";
 
 const Home = () => {
     return (
         <div>
-         <h2 className="text-4xl font-bold">This is my home page </h2>   
+            <Bannar></Bannar>
+            <Books></Books>
         </div>
     );
 };

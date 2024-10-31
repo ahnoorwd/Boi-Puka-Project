@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "book_name": "The Great Gatsby",
+      "author_name": "F. Scott Fitzgerald",
+      "published_date": "1925-04-10",
+      "rating": 4.4,
+      "pages":2020,
+      "book_img": "https://example.com/images/the_great_gatsby.jpg",
+      "author_img": "https://example.com/images/fs_fitzgerald.jpg"
+    },
+    {
+      "id": 2,
+      "book_name": "To Kill a Mockingbird",
+      "author_name": "Harper Lee",
+      "published_date": "1960-07-11",
+      "rating": 4.8,
+      "pages":2050,
+      "book_img": "https://example.com/images/to_kill_a_mockingbird.jpg",
+      "author_img": "https://example.com/images/harper_lee.jpg"
+    },
+    {
+      "id": 3,
+      "book_name": "1984",
+      "author_name": "George Orwell",
+      "published_date": "1949-06-08",
+      "rating": 4.7,
+      "pages":2027,
+      "book_img": "https://example.com/images/1984.jpg",
+      "author_img": "https://example.com/images/george_orwell.jpg"
+    },
+    {
+      "id": 4,
+      "book_name": "Pride and Prejudice",
+      "author_name": "Jane Austen",
+      "published_date": "1813-01-28",
+      "rating": 4.5,
+      "pages":2000,
+      "book_img": "https://example.com/images/pride_and_prejudice.jpg",
+      "author_img": "https://example.com/images/jane_austen.jpg"
+    },
+    {
+      "id": 5,
+      "book_name": "The Catcher in the Rye",
+      "author_name": "J.D. Salinger",
+      "published_date": "1951-07-16",
+      "rating": 4.2,
+      "pages":7020,
+      "book_img": "https://example.com/images/the_catcher_in_the_rye.jpg",
+      "author_img": "https://example.com/images/jd_salinger.jpg"
+    },
+    {
+      "id": 6,
+      "book_name": "The Hobbit",
+      "author_name": "J.R.R. Tolkien",
+      "published_date": "1937-09-21",
+      "rating": 4.6,
+      "pages":2620,
+      "book_img": "https://example.com/images/the_hobbit.jpg",
+      "author_img": "https://example.com/images/jrr_tolkien.jpg"
+    },
+    {
+      "id": 7,
+      "book_name": "Fahrenheit 451",
+      "author_name": "Ray Bradbury",
+      "published_date": "1953-10-19",
+      "rating": 4.3,
+      "pages":5020,
+      "book_img": "https://example.com/images/fahrenheit_451.jpg",
+      "author_img": "https://example.com/images/ray_bradbury.jpg"
+    },
+    {
+      "id": 8,
+      "book_name": "Jane Eyre",
+      "author_name": "Charlotte Brontë",
+      "published_date": "1847-10-16",
+      "rating": 4.6,
+      "pages":2050,
+      "book_img": "https://example.com/images/jane_eyre.jpg",
+      "author_img": "https://example.com/images/charlotte_bronte.jpg"
+    },
+    {
+      "id": 9,
+      "book_name": "Brave New World",
+      "author_name": "Aldous Huxley",
+      "published_date": "1932-08-18",
+      "rating": 4.2,
+      "pages":2020,
+      "book_img": "https://example.com/images/brave_new_world.jpg",
+      "author_img": "https://example.com/images/aldous_huxley.jpg"
+    },
+    {
+      "id": 10,
+      "book_name": "Moby-Dick",
+      "author_name": "Herman Melville",
+      "published_date": "1851-11-14",
+      "rating": 4.1,
+      "pages":2020,
+      "book_img": "https://example.com/images/moby_dick.jpg",
+      "author_img": "https://example.com/images/herman_melville.jpg"
+    }
+  ]
+  
