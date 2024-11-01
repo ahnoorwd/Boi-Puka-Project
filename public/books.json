@@ -6,6 +6,7 @@
       "published_date": "1925-04-10",
       "rating": 4.4,
       "pages":2020,
+      "tags":["young adalt","identity"],
       "book_img": "https://i.ibb.co.com/wLqWmM0/book-1.webp",
       "author_img": "https://example.com/images/fs_fitzgerald.jpg"
     },
@@ -16,16 +17,18 @@
       "published_date": "1960-07-11",
       "rating": 4.8,
       "pages":2050,
+      "tags":["young adalt","identity"],
       "book_img": "https://i.ibb.co.com/P1vRvBS/book-2.jpg",
       "author_img": "https://example.com/images/harper_lee.jpg"
     },
     {
       "id": 3,
-      "book_name": "1984",
+      "book_name": "Srabhonii",
       "author_name": "George Orwell",
       "published_date": "1949-06-08",
       "rating": 4.7,
       "pages":2027,
+      "tags":["young adalt","identity"],
       "book_img": "https://i.ibb.co.com/1nKGHpR/book-3.jpg",
       "author_img": "https://example.com/images/george_orwell.jpg"
     },
@@ -36,16 +39,18 @@
       "published_date": "1813-01-28",
       "rating": 4.5,
       "pages":2000,
+      "tags":["young adalt","identity"],
       "book_img": "https://i.ibb.co.com/cNSP6tB/book-4.jpg",
       "author_img": "https://example.com/images/jane_austen.jpg"
     },
     {
       "id": 5,
-      "book_name": "The Catcher in the Rye",
+      "book_name": "The Catcher in the",
       "author_name": "J.D. Salinger",
       "published_date": "1951-07-16",
       "rating": 4.2,
       "pages":7020,
+      "tags":["young adalt","identity"],
       "book_img": "https://i.ibb.co.com/X3gQgb5/book-5.jpg",
       "author_img": "https://example.com/images/jd_salinger.jpg"
     },
@@ -56,6 +61,7 @@
       "published_date": "1937-09-21",
       "rating": 4.6,
       "pages":2620,
+      "tags":["young adalt","identity"],
       "book_img": "https://i.ibb.co.com/JCSf7H6/book-6.jpg",
       "author_img": "https://example.com/images/jrr_tolkien.jpg"
     },
@@ -66,6 +72,7 @@
       "published_date": "1953-10-19",
       "rating": 4.3,
       "pages":5020,
+      "tags":["young adalt","identity"],
       "book_img": "https://i.ibb.co.com/FsDLzPh/book-7.jpg",
       "author_img": "https://example.com/images/ray_bradbury.jpg"
     },
@@ -76,6 +83,7 @@
       "published_date": "1847-10-16",
       "rating": 4.6,
       "pages":2050,
+      "tags":["young adalt","identity"],
       "book_img": "https://i.ibb.co.com/Hz8pP7p/book-8.jpg",
       "author_img": "https://example.com/images/charlotte_bronte.jpg"
     },
@@ -86,6 +94,7 @@
       "published_date": "1932-08-18",
       "rating": 4.2,
       "pages":2020,
+      "tags":["young adalt","identity"],
       "book_img": "https://i.ibb.co.com/QNQ3R5M/book-9.jpg",
       "author_img": "https://example.com/images/aldous_huxley.jpg"
     },
@@ -96,6 +105,7 @@
       "published_date": "1851-11-14",
       "rating": 4.1,
       "pages":2020,
+      "tags":["young adalt","identity"],
       "book_img": "https://i.ibb.co.com/RSqSgmv/book-10.jpg",
       "author_img": "https://example.com/images/herman_melville.jpg"
     }
