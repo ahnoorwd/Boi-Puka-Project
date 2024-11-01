@@ -5,11 +5,9 @@ const Nabvar = () => {
     <>
       
        <li><NavLink to ="/">Home</NavLink></li>
+       <li><NavLink to ="/linksbooks">Listed Books</NavLink></li>
       
 
-      <li>
-        <a>LINK's BOOK's</a>
-      </li>
       <li>
         <a>PAGES TO READ</a>
       </li>

@@ -18,14 +18,14 @@ const Book = ({ book }) => {
         <figure className="bg-gray-400 p-6 rounded-lg">
           <img
             src={book_img}
-            className="w-full h-[300px] rounded-lg"
+            className="h-[300px] rounded-lg"
             alt="books img "
           />
         </figure>
         <div className="card-body">
           <div className="flex justify-between items-center  mb-2 ">
-            {tags.map((tag) => (
-              <button className="btn btn-sm bg-green-200 text-green-500">
+            {tags.map((tag,idx) => (
+              <button key={idx} className="btn btn-sm bg-green-200 text-green-500">
                 {tag}
               </button>
             ))}
