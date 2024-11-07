@@ -10,7 +10,7 @@ const Bannar = () => {
             <h1 className="text-5xl font-bold">Box Office News!</h1>
             <p className="py-6">
               Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-              quasi. In deleniti eaque aut repudiandae et a id nisi.
+              quasi. In deleniti eaque aut repudiandae et a id nisibangladesh ia a big country it to much falsy talk npm run build.
             </p>
             <button className="btn btn-primary">Get Started</button>
           </div>
